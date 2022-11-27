@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/1096850/screenshots/3488730/media/42ef565cbe770c44e7cc9b17b8898480.gif)](https://rishavchanda.io)
+[![MasterHead](https://miro.medium.com/max/875/1*DluPjzT_eTUFdzHCI7JBZA.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Amine Masseoudi</h1>
 <h3 align="center">Devops Engineer from Tunisa</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
